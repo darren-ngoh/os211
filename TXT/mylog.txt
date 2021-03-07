@@ -17,8 +17,11 @@ ZCZC W01 100 L02 1-Mar Synchronous Session
 ZCZC W01  90 L11 Assignment #1
 ZCZC W01  45 L12 Assignment #2
 ZCZC W01 155 L13 Assignment #3
+ZCZC W01  50 L05 GSGS for Pop Quiz
+ZCZC W01  10 L07 AsDos: Assistance
+ZCZC W01  30 L23 Discord: Discuss with friends
 ZCZC W01  30 L14 Assignment #4
-ZCZC W01 120 L15 Assignment #5
+ZCZC W01  75 L15 Assignment #5
 ZCZC W01  15 L16 Assignment #6
 ZCZC W01 180 L17 Assignment #7
 ZCZC W01  75 L18 Assignment #8
