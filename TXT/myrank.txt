@@ -4,3 +4,8 @@
 ZCZC W01 andrew-susanto
 ZCZC W01 IlmaMannix
 ZCZC W01 ranianhanami
+
+# Week 02
+ZCZC W02 ddelvo
+ZCZC W02 Exqrch
+ZCZC W02 faishol01
