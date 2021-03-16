@@ -1,11 +1,7 @@
-# RANK
-
-# Week 01
-ZCZC W01 andrew-susanto
-ZCZC W01 IlmaMannix
-ZCZC W01 ranianhanami
-
-# Week 02
+# Top 10 Rank
+ZCZC W01 ddelvo
+ZCZC W01 Exqrch
+ZCZC W01 faishol01
 ZCZC W02 ddelvo
 ZCZC W02 Exqrch
 ZCZC W02 faishol01
