@@ -26,7 +26,7 @@ ZCZC W01  15 L16 Assignment #6
 ZCZC W01 180 L17 Assignment #7
 ZCZC W01  75 L18 Assignment #8
 ZCZC W02 100 L02 8-Mar Synchronous Session
-ZCZC W01  60 L05 GSGS and Standby for Pop Quiz
+ZCZC W02  60 L05 GSGS and Standby for Pop Quiz
 ZCZC W02  45 L00 Read Slides W02
 ZCZC W02  60 L06 OSC10 Reading
 ZCZC W02  60 L07 Demo Related
@@ -36,3 +36,11 @@ ZCZC W02  60 L00 Visiting My Neighbors to do myrank.txt
 ZCZC W02 180 L00 GSGS for W02 top 10 list
 ZCZC W02  15 L00 ATM myscript.sh from cbkadal
 ZCZC W02  60 L25 Exploring the C-Language
+ZCZC W03 100 L02 17-Mar Synchronous Session
+ZCZC W03  45 L00 Read Slides W03
+ZCZC W03  90 L06 OSC10 Reading
+ZCZC W03 120 L07 Demo Related
+ZCZC W03  60 L00 Visiting My Neighbors to do myrank.txt
+ZCZC W03 180 L00 GSGS for W03 top 10 list
+ZCZC W03  30 L10 Decrypting and Extracting tarball
+ZCZC W03  60 L05 GSGS and Standby for Pop Quiz
