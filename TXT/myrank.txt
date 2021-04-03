@@ -9,3 +9,7 @@ ZCZC W03 ddelvo
 ZCZC W03 ekojsalim
 ZCZC W03 Exqrch
 ZCZC W03 faishol01
+ZCZC W04 ddelvo
+ZCZC W04 ekojsalim
+ZCZC W04 Exqrch
+ZCZC W04 faishol01
