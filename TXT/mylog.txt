@@ -44,7 +44,7 @@ ZCZC W03  60 L00 Visiting My Neighbors to do myrank.txt
 ZCZC W03 180 L00 GSGS for W03 top 10 list
 ZCZC W03  30 L10 Decrypting and Extracting tarball
 ZCZC W03  60 L05 GSGS and Standby for Pop Quiz
-ZCZC W04 100 L02 24-Mar Synchrnous Session
+ZCZC W04 100 L02 24-Mar Synchronous Session
 ZCZC W04  45 L00 Read Slides W04
 ZCZC W04  90 L06 OSC10 Reading
 ZCZC W04 120 L07 Demo Related
@@ -53,3 +53,13 @@ ZCZC W04 180 L00 GSGS for W04 top 10 list
 ZCZC W04  30 L10 Decrypting and Extracting tarball
 ZCZC W04  60 L05 GSGS and Standby for Pop Quiz
 ZCZC W04  90 L00 Trying to log to os.vlsm.org
+ZCZC W05 100 L02 31-Mar Synchronous Session
+ZCZC W05  45 L00 Read Slides W05
+ZCZC W05  90 L06 OSC10 Reading
+ZCZC W05 120 L07 Demo Related
+ZCZC W05  60 L00 Visiting My Neighbors to do myrank.txt
+ZCZC W05 180 L00 GSGS for W05 top 10 list
+ZCZC W05  30 L10 Decrypting and Extracting tarball
+ZCZC W05  60 L05 GSGS and Standby for Pop Quiz
+ZCZC W05  90 L10 Installing Banner and Figuring How to Move Screenshot to Debian Guest
+ZCZC W05  90 L10 Demo TOP
