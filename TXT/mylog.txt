@@ -68,6 +68,14 @@ ZCZC W06  60 L00 Read Slides W06
 ZCZC W06 105 L06 OSC10 Reading
 ZCZC W06 120 L07 Demo Related
 ZCZC W06  60 L00 Visiting My Neighbors to do myrank.txt
-ZCZC W06 180 L00 GSGS for W05 top 10 list
+ZCZC W06 180 L00 GSGS for W06 top 10 list
 ZCZC W06  45 L10 Decrypting and Extracting tarball
 ZCZC W06  90 L05 GSGS and Standby for Pop Quiz
+ZCZC W07 100 L02 26-Apr Synchronous Session
+ZCZC W07  60 L00 Read Slides W07
+ZCZC W07 105 L06 OSC10 Reading
+ZCZC W07 120 L07 Demo Related
+ZCZC W07  60 L00 Visiting My Neighbors to do myrank.txt
+ZCZC W07 180 L00 GSGS for W07 top 10 list
+ZCZC W07  45 L10 Decrypting and Extracting tarball
+ZCZC W07  90 L05 GSGS and Standby for Pop Quiz
