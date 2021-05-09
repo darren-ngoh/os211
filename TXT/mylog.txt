@@ -79,3 +79,11 @@ ZCZC W07  60 L00 Visiting My Neighbors to do myrank.txt
 ZCZC W07 180 L00 GSGS for W07 top 10 list
 ZCZC W07  45 L10 Decrypting and Extracting tarball
 ZCZC W07  90 L05 GSGS and Standby for Pop Quiz
+ZCZC W08 100 L02 3-May Synchronous Session
+ZCZC W08  60 L00 Read Slides W08
+ZCZC W08 105 L06 OSC10 Reading
+ZCZC W08 120 L07 Demo Related
+ZCZC W08  60 L00 Visiting My Neighbors to do myrank.txt
+ZCZC W08 180 L00 GSGS for W08 top 10 list
+ZCZC W08 180 L10 Do LFS 1-4
+ZCZC W08  90 L05 GSGS and Standby for Pop Quiz

@@ -21,3 +21,7 @@ ZCZC W06 ddelvo
 ZCZC W06 ekojsalim
 ZCZC W06 Exqrch
 ZCZC W06 faishol01
+ZCZC W07 ddelvo
+ZCZC W07 ekojsalim
+ZCZC W07 Exqrch
+ZCZC W07 faishol01
