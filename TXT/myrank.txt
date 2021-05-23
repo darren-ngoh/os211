@@ -25,3 +25,6 @@ ZCZC W07 ddelvo
 ZCZC W07 ekojsalim
 ZCZC W07 Exqrch
 ZCZC W07 faishol01
+ZCZC W08 Etyaresa
+ZCZC W08 Exqrch
+ZCZC W08 fadlia68
